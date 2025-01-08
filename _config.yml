@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               leepics
+title:               Jeong-e
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -26,7 +26,7 @@ author:
   name:              jeonge lee
   email:             wjdgnl97@gmail.com
 
-# Fallback image and color
+# Fallback image and color 
 image:               /assets/img/neon_background.gif
 color:               '#4f86aa'
 
