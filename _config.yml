@@ -27,7 +27,7 @@ author:
   email:             wjdgnl97@gmail.com
 
 # Fallback image and color 
-image:               /assets/img/neon_background.gif
+image:               ./assets/img/neon_background.gif
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
