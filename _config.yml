@@ -6,11 +6,11 @@ title:               leepics
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://leejeonghwi.github.io/jeonge.github.io
+url:                 "https://leejeonghwi.github.io"
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             ""
+baseurl:             "/jeonge.github.io"
 
 # A very short description of your page
 tagline:             사진찍기를 좋아하는 개발자
@@ -27,7 +27,7 @@ author:
   email:             wjdgnl97@gmail.com
 
 # Fallback image and color 
-image:               ./assets/img/neon_background.gif
+image:               /assets/img/neon_background.gif
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
