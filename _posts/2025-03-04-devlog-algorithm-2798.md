@@ -2,7 +2,7 @@
 layout: post
 title:  "[BOJ] 2798-설탕배달"
 subtitle:   "Silver4-Greedy"
-categories: algorithm
+categories: devlog
 tags: algorithm greedy boj
 ---
 
