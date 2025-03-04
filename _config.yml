@@ -10,7 +10,7 @@ url:                 "https://leejeonghwi.github.io"
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             "/jeonge.github.io"
+baseurl:             ""
 
 # A very short description of your page
 tagline:             사진찍기를 좋아하는 개발자
